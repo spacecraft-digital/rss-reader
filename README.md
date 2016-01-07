@@ -2,7 +2,7 @@
 
 ## Background
 
-Google have closed down their popular RSS reader web application. As avid RSS users as well as software engineers we would like to create a new RSS reader that we have full control over.
+Some people still like to plug in to the RSS firehose. As software engineers in a post-Google-Reader world we would like to create a new RSS reader that we have full control over.
 
 ## The brief
  
